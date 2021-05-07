@@ -13,5 +13,6 @@ Non WSL:
 - Save an image in clipboard to file(useful with win + shift + S)
 - Kill Discord/FIrefox with a click
 - start a socks proxy in WSL
+- Control Azure VMs
 
 Add keyboard shortcuts, perhaps relevant to me: https://www.sparxeng.com/blog/software/capturing-keypress-windows-message-filter
