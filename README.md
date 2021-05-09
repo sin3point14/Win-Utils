@@ -7,6 +7,7 @@ WSL:
 
 - Kill distros with a click 
 - Launch windows terminal directly with a distro in focus
+- Add distro stats to tasktray GUI
 
 Non WSL:
 
